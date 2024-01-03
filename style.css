@@ -1,4 +1,10 @@
 /* styles.css */
 h1 {
-    color: green;
+    color: lightblue;
+    font-family:"Monaco", monospace;
 }
+body {
+    background-color: rgb(66, 64, 64); /* same as #00000 */
+  }
+
+ 
